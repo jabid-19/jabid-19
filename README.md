@@ -1,3 +1,9 @@
+ <img
+    src="https://media.giphy.com/media/3o72FaZgzzFmqoNfBm/giphy.gif"
+    alt="jabid-19"
+  />
+
+
 <h1 align="left">Hello, this is Jabid Hasan</h1>
 <h3 align="left">A passionate frontend developer and UI/UX designer</h3>
 
