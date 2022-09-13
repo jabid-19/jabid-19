@@ -1,4 +1,10 @@
 
+<p align="center">
+    <img
+      src="https://github.com/jabid-19/jabid-19/blob/main/banner.png?raw=true"
+      alt="jabid-19"
+    />
+  </p>
 <p align="left">
     <img
       src="https://komarev.com/ghpvc/?username=jabid-19&label=Profile%20views&color=0e75b6&style=flat"
