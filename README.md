@@ -130,22 +130,16 @@
     </a>
   </p>
   
+  
+  <br/>
   <p>
     <img
-      align="left"
+      align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=jabid-19&show_icons=true&locale=en&layout=compact"
       alt="jabid-19"
     />
   </p>
-  
-  <p>
-    <img
-      align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=jabid-19&"
-      alt="jabid-19"
-    />
-  </p>
-  
+ 
   <h3 align="left">Connect with me:</h3>
   <p align="left">
     <a href="https://twitter.com/jabid_19" target="blank"
