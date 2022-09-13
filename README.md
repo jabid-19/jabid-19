@@ -34,108 +34,82 @@
   
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img
         src="https://portfolio-jabid-19.vercel.app/images/about-section/js.webp?w=32&q=100}"
-        alt="bootstrap"
+        alt="js"
         width="25"
         height="25"
       />
-    </a>
     &nbsp;
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img
         src="https://portfolio-jabid-19.vercel.app/images/about-section/react.webp?w=32&q=100}"
-        alt="css3"
+        alt="reactjs"
         width="25"
         height="25"
       />
-    </a>
     &nbsp;
-    <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
       <img
         src="https://portfolio-jabid-19.vercel.app/images/about-section/next-js.webp?w=32&q=100}"
-        alt="cypress"
+        alt="nextjs"
         width="25"
         height="25"
       />
-    </a>
     &nbsp;
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img
         src="https://portfolio-jabid-19.vercel.app/images/about-section/node.webp?w=32&q=100}"
-        alt="figma"
+        alt="nodejs"
         width="25"
         height="25"
       />
-    </a>
     &nbsp;
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img
         src="https://portfolio-jabid-19.vercel.app/images/about-section/mongo.webp?w=32&q=100}"
         alt="html5"
         width="25"
         height="25"
       />
-    </a>
     &nbsp; 
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-      target="_blank"
-      rel="noreferrer"
-    >
       <img
         src="https://portfolio-jabid-19.vercel.app/images/about-section/mui.webp?w=32&q=100}"
-        alt="javascript"
+        alt="mui"
         width="25"
         height="25"
       />
-    </a>
     &nbsp;
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
       <img
         src="https://portfolio-jabid-19.vercel.app/images/about-section/bootstrap.webp?w=32&q=100}"
-        alt="nextjs"
+        alt="bootstrap"
         width="25"
         height="25"
       />
-    </a>
     &nbsp;
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
       <img
         src="https://portfolio-jabid-19.vercel.app/images/about-section/figma.webp?w=32&q=100}"
-        alt="photoshop"
+        alt="figma"
         width="25"
         height="25"
       />
-    </a>
     &nbsp;
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img
         src="https://portfolio-jabid-19.vercel.app/images/about-section/xd.webp?w=32&q=100}"
-        alt="react"
+        alt="xd"
         width="25"
         height="25"
       />
-    </a>
     &nbsp;
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
         alt="tailwind"
         width="25"
         height="25"
       />
-    </a>
     &nbsp;
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
       <img
         src="https://portfolio-jabid-19.vercel.app/images/about-section/cypress.webp?w=32&q=100}"
-        alt="typescript"
+        alt="cypress"
         width="25"
         height="25"
       />
-    </a>
   </p>
   
   
