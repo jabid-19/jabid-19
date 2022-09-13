@@ -1,4 +1,4 @@
-<h1 align="left">hello, this is Jabid Hasan</h1>
+<h1 align="left">Hello, this is Jabid Hasan</h1>
 <h3 align="left">A passionate frontend developer and UI/UX designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jabid-19&label=Profile%20views&color=0e75b6&style=flat" alt="jabid-19" /> </p>
