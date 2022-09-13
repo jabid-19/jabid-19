@@ -35,77 +35,84 @@
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
       <img
-        src="https://portfolio-jabid-19.vercel.app/images/about-section/js.webp?w=32&q=100}"
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/js.webp"
         alt="js"
         width="25"
         height="25"
       />
     &nbsp;
+     <img
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/ts.webp"
+        alt="ts"
+        width="25"
+        height="25"
+      />
+    &nbsp;
       <img
-        src="https://portfolio-jabid-19.vercel.app/images/about-section/react.webp?w=32&q=100}"
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/react.webp"
         alt="reactjs"
         width="25"
         height="25"
       />
     &nbsp;
       <img
-        src="https://portfolio-jabid-19.vercel.app/images/about-section/next-js.webp?w=32&q=100}"
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/next-js.webp"
         alt="nextjs"
         width="25"
         height="25"
       />
     &nbsp;
       <img
-        src="https://portfolio-jabid-19.vercel.app/images/about-section/node.webp?w=32&q=100}"
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/node.webp"
         alt="nodejs"
         width="25"
         height="25"
       />
     &nbsp;
       <img
-        src="https://portfolio-jabid-19.vercel.app/images/about-section/mongo.webp?w=32&q=100}"
-        alt="html5"
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/mongo.webp"
+        alt="mongo"
         width="25"
         height="25"
       />
     &nbsp; 
       <img
-        src="https://portfolio-jabid-19.vercel.app/images/about-section/mui.webp?w=32&q=100}"
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/mui.webp"
         alt="mui"
         width="25"
         height="25"
       />
     &nbsp;
       <img
-        src="https://portfolio-jabid-19.vercel.app/images/about-section/bootstrap.webp?w=32&q=100}"
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/bootstrap.webp"
         alt="bootstrap"
         width="25"
         height="25"
       />
     &nbsp;
-      <img
-        src="https://portfolio-jabid-19.vercel.app/images/about-section/figma.webp?w=32&q=100}"
-        alt="figma"
-        width="25"
-        height="25"
-      />
-    &nbsp;
-      <img
-        src="https://portfolio-jabid-19.vercel.app/images/about-section/xd.webp?w=32&q=100}"
-        alt="xd"
-        width="25"
-        height="25"
-      />
-    &nbsp;
-      <img
-        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+          <img
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/tailwind.webp"
         alt="tailwind"
         width="25"
         height="25"
       />
     &nbsp;
       <img
-        src="https://portfolio-jabid-19.vercel.app/images/about-section/cypress.webp?w=32&q=100}"
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/figma.webp"
+        alt="figma"
+        width="25"
+        height="25"
+      />
+    &nbsp;
+      <img
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/xd.webp"
+        alt="xd"
+        width="25"
+        height="25"
+      />
+    &nbsp;
+      <img
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/cypress.webp"
         alt="cypress"
         width="25"
         height="25"
