@@ -18,9 +18,9 @@
     /></a>
   </p>
   
-  👁️ All of my projects are available at [jabidhasan.com](jabidhasan.com) 
+  - All of my projects are available at [jabidhasan.com](jabidhasan.com) 
   
-  👁️ How to reach me **jabidhasan19@gmail.com**
+  - How to reach me **jabidhasan19@gmail.com**
   
   
   
