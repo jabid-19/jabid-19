@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://www.jabidhasan.com/">
+<a href="https://www.jabidhasan.com/" target="blank">
     <img
       src="https://github.com/jabid-19/jabid-19/blob/main/banner.png?raw=true"
       alt="jabid-19"
