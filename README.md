@@ -8,21 +8,21 @@
   <h1 align="left">Hello, this is Jabid Hasan</h1>
   <h3 align="left">A passionate frontend developer and UI/UX designer</h3>
   
+  <p>I have hands-on experience in Web Application Development. Along with technology, I am also focused on developing my knowledge of business strategy because I want to build products that are economically impactful & extensible.</p>
   
+
   
-  <p align="left">
+  - All of my projects are available at [jabidhasan.com](jabidhasan.com) 
+  
+  - How to reach me **jabidhasan19@gmail.com**
+  
+    <p align="left">
     <a href="https://twitter.com/jabid_19" target="blank"
       ><img
         src="https://img.shields.io/twitter/follow/jabid_19?logo=twitter&style=for-the-badge"
         alt="jabid_19"
     /></a>
   </p>
-  
-  - All of my projects are available at [jabidhasan.com](jabidhasan.com) 
-  
-  - How to reach me **jabidhasan19@gmail.com**
-  
-  
   
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
