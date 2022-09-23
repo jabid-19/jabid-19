@@ -8,7 +8,7 @@
     <a/>
   </p>
   
-  ![snake gif](https://raw.githubusercontent.com/jabid-19/jabid-19/a54302f4c0c936953f4edec59547fd1541ed5d87/github-contribution-grid-snake.svg)
+ 
   
 <p align="left">
     <img
@@ -17,12 +17,13 @@
     />
   </p>
   <h1 align="left">Hello, this is Jabid Hasan</h1>
-  <h3 align="left">A passionate frontend developer and UI/UX designer</h3>
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=BD7046&vCenter=true&multiline=true&width=800&lines=A+passionate+frontend+developer+and+UI%2FUX+designer)
   
   <p>I have hands-on experience in Web Application Development. Along with technology, I am also focused on developing my knowledge of business strategy because I want to build products that are economically impactful & extensible.</p>
   
-
   
+
   - All of my projects are available at [jabidhasan.com](jabidhasan.com) 
   
   - How to reach me **jabidhasan19@gmail.com**
