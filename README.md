@@ -5,8 +5,11 @@
       src="https://github.com/jabid-19/jabid-19/blob/main/banner.png?raw=true"
       alt="jabid-19"
     />
+    <a/>
   </p>
-  <a/>
+  
+  ![snake gif](https://raw.githubusercontent.com/jabid-19/jabid-19/a54302f4c0c936953f4edec59547fd1541ed5d87/github-contribution-grid-snake.svg)
+  
 <p align="left">
     <img
       src="https://komarev.com/ghpvc/?username=jabid-19&label=Profile%20views&color=0e75b6&style=flat"
@@ -168,5 +171,5 @@
     /></a>
   </p>
   
-![snake gif](https://raw.githubusercontent.com/jabid-19/jabid-19/a54302f4c0c936953f4edec59547fd1541ed5d87/github-contribution-grid-snake.svg)
+
 
