@@ -16,7 +16,7 @@
 
 <h1 align="left">Hello, this is Jabid Hasan</h1>
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=BD7046&vCenter=true&multiline=true&width=800&lines=A+passionate+front-end+developer+and+UI%2FUX+designer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=B76A3D&vCenter=true&multiline=true&width=800&lines=A+passionate+front-end+developer+and+UI%2FUX+designer)
   
   <p>I have hands-on experience in Web Application Development. Along with technology, I am also focused on developing my knowledge of business strategy because I want to build products that are economically impactful & extensible.</p>
   
