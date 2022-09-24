@@ -132,8 +132,8 @@
     <a href="https://twitter.com/jabid_19" target="blank"
       ><img
         align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-        alt="jabid_19"
+        src="https://github.com/jabid-19/jabid-19/blob/main/images/contacts/twitter.png?raw=true"
+        alt="Twitter"
         height="20"
         width="20"
     /></a>
@@ -141,8 +141,8 @@
     <a href="https://linkedin.com/in/jabid-hasan" target="blank"
       ><img
         align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="jabid-hasan"
+        src="https://github.com/jabid-19/jabid-19/blob/main/images/contacts/linkedin.png?raw=true"
+        alt="LinkedIn"
         height="20"
         width="20"
     /></a>
@@ -150,8 +150,8 @@
     <a href="https://fb.com/jabid19" target="blank"
       ><img
         align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-        alt="jabid19"
+        src="https://github.com/jabid-19/jabid-19/blob/main/images/contacts/fb.png?raw=true"
+        alt="Facebook"
         height="20"
         width="20"
     /></a>
@@ -159,8 +159,8 @@
     <a href="https://www.behance.net/jabidhasan" target="blank"
       ><img
         align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
-        alt="jabidhasan"
+        src="https://github.com/jabid-19/jabid-19/blob/main/images/contacts/behance.png?raw=true"
+        alt="Behance"
         height="20"
         width="20"
     /></a>
