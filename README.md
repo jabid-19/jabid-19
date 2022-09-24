@@ -156,7 +156,7 @@
         width="20"
     /></a>
     &nbsp;
-    <a href="https://www.behance.net/jabidhasan" target="blank"
+    <a href="https://www.behance.net/jabidhasan" target="_blank"
       ><img
         align="center"
         src="https://github.com/jabid-19/jabid-19/blob/main/images/contacts/behance.png?raw=true"
