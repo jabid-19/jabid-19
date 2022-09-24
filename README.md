@@ -28,13 +28,14 @@
   
   - How to reach me **jabidhasan19@gmail.com**
   
-    <p align="left">
+   <p align="left">
     <a href="https://twitter.com/jabid_19" target="blank"
       ><img
         src="https://img.shields.io/twitter/follow/jabid_19?logo=twitter&style=for-the-badge"
         alt="jabid_19"
     /></a>
   </p>
+
   
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
@@ -125,13 +126,8 @@
   
   
   <br/>
-  <p>
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=jabid-19&show_icons=true&locale=en&layout=compact"
-      alt="jabid-19"
-    />
-  </p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jabid-19&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
  
   <h3 align="left">Connect with me:</h3>
   <p align="left">
