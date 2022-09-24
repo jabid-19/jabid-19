@@ -10,13 +10,11 @@
   
  
   
-<p align="left">
-    <img
-      src="https://komarev.com/ghpvc/?username=jabid-19&label=Profile%20views&color=0e75b6&style=flat"
-      alt="jabid-19"
-    />
-  </p>
-  <h1 align="left">Hello, this is Jabid Hasan</h1>
+
+
+![](https://komarev.com/ghpvc/?username=jabid-19&color=844f30)
+
+<h1 align="left">Hello, this is Jabid Hasan</h1>
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=BD7046&vCenter=true&multiline=true&width=800&lines=A+passionate+front-end+developer+and+UI%2FUX+designer)
   
