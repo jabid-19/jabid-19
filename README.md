@@ -10,7 +10,7 @@
   
  
   
-![](https://komarev.com/ghpvc/?username=jabid-19&color=844f30)
+![](https://komarev.com/ghpvc/?username=jabid-19&color=7b4c30)
 
 <h1 align="left">Hello, this is Jabid Hasan</h1>
   
