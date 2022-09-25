@@ -38,22 +38,91 @@
   <h3 align="left">Languages and Tools:</h3>
   
   
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)<br/> 
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <br/> 
-  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) <br/> 	
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
-  ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) <br/> 
+ <p align="left">
+      <img
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/js.webp"
+        alt="js"
+        width="25"
+        height="25"
+      />
+    &nbsp;
+     <img
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/ts.webp"
+        alt="ts"
+        width="25"
+        height="25"
+      />
+    &nbsp;
+      <img
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/react.webp"
+        alt="reactjs"
+        width="25"
+        height="25"
+      />
+    &nbsp;
+      <img
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/next-js.webp"
+        alt="nextjs"
+        width="25"
+        height="25"
+      />
+    &nbsp;
+      <img
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/node.webp"
+        alt="nodejs"
+        width="25"
+        height="25"
+      />
+    &nbsp;
+      <img
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/mongo.webp"
+        alt="mongo"
+        width="25"
+        height="25"
+      />
+    &nbsp; 
+      <img
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/mui.webp"
+        alt="mui"
+        width="25"
+        height="25"
+      />
+    &nbsp;
+      <img
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/bootstrap.webp"
+        alt="bootstrap"
+        width="25"
+        height="25"
+      />
+    &nbsp;
+          <img
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/tailwind.webp"
+        alt="tailwind"
+        width="25"
+        height="25"
+      />
+    &nbsp;
+      <img
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/figma.webp"
+        alt="figma"
+        width="25"
+        height="25"
+      />
+    &nbsp;
+      <img
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/xd.webp"
+        alt="xd"
+        width="25"
+        height="25"
+      />
+    &nbsp;
+      <img
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/cypress.webp"
+        alt="cypress"
+        width="25"
+        height="25"
+      />
+  </p>
   
   <br/>
 
