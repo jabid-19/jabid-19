@@ -10,8 +10,6 @@
   
  
   
-
-
 ![](https://komarev.com/ghpvc/?username=jabid-19&color=844f30)
 
 <h1 align="left">Hello, this is Jabid Hasan</h1>
@@ -104,7 +102,7 @@
     &nbsp;
       <img
         src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/sass.png"
-        alt="tailwind"
+        alt="sass"
         width="25"
         height="25"
       />
@@ -125,7 +123,7 @@
     &nbsp;
       <img
         src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/rive.png"
-        alt="xd"
+        alt="rive"
         width="25"
         height="25"
       />
