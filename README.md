@@ -103,6 +103,13 @@
       />
     &nbsp;
       <img
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/sass.png"
+        alt="tailwind"
+        width="25"
+        height="25"
+      />
+    &nbsp;
+      <img
         src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/figma.webp"
         alt="figma"
         width="25"
@@ -111,6 +118,13 @@
     &nbsp;
       <img
         src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/xd.webp"
+        alt="xd"
+        width="25"
+        height="25"
+      />    
+    &nbsp;
+      <img
+        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/rive.png"
         alt="xd"
         width="25"
         height="25"
