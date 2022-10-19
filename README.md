@@ -20,7 +20,7 @@
   
   
 
-  - All of my projects are available at [jabidhasan.com](jabidhasan.com) 
+  - All of my projects are available at [jabidhasan.com](https://www.jabidhasan.com/) 
   
   - How to reach me **jabidhasan19@gmail.com**
   
