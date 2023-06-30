@@ -176,10 +176,10 @@
     <a href="https://500px.com/p/jabid19" target="_blank"
       ><img
         align="center"
-        src="https://github.com/jabid-19/jabid-19/blob/main/images/contacts/behance.png?raw=true"
+        src="https://github.com/jabid-19/jabid-19/blob/main/images/contacts/logos_500px.png?raw=true"
         alt="Behance"
-        height="20"
-        width="20"
+        height="12"
+        width="45"
     /></a>
   </p>
   
