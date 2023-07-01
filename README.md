@@ -16,7 +16,7 @@
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=B76A3D&vCenter=true&multiline=true&width=800&lines=A+passionate+front-end+developer+and+UI%2FUX+designer)
   
-  <p>I have hands-on experience in Web Application Development. Along with technology, I am also focused on developing my knowledge of business strategy because I want to build products that are economically impactful & extensible.</p>
+  <p>As a front-end developer and UI/UX designer, I bring a unique combination of technical expertise and creative design skills to any project. With a deep understanding of programming languages, I have the ability to bring to life any visual design using the latest web technologies.</p>
   
   
 
