@@ -25,7 +25,7 @@
   - How to reach me **jabidhasan19@gmail.com**
   
   
- [![Twitter Follow](https://img.shields.io/twitter/follow/jabid_19?color=%231a90da&logo=twitter&style=for-the-badge)](https://twitter.com/jabid_19)
+ [![Twitter Follow](https://img.shields.io/twitter/follow/jabidHasan_19?color=%231a90da&logo=twitter&style=for-the-badge)](https://twitter.com/jabidHasan_19)
 
   
   <h3 align="left">Languages and Tools:</h3>
