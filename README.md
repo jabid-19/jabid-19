@@ -155,7 +155,7 @@
         width="20"
     /></a>
     &nbsp;
-    <a href="https://fb.com/jabid.hasan.19" target="blank"
+    <a href="https://fb.com/jabid19" target="blank"
       ><img
         align="center"
         src="https://github.com/jabid-19/jabid-19/blob/main/images/contacts/fb.png?raw=true"
