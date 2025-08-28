@@ -14,7 +14,7 @@
 
 <h1 align="left">Hello, this is Jabid Hasan</h1>
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=B76A3D&vCenter=true&multiline=true&width=800&lines=A+passionate+front-end+developer+and+UI%2FUX+designer)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=BD7045&width=850&lines=A+front-end+developer+driven+by+creativity+and+a+love+for+UI%2FUX+design)](https://git.io/typing-svg)
   
   <p>As a front-end developer and UI/UX designer, I bring a unique combination of technical expertise and creative design skills to any project. With a deep understanding of programming languages, I have the ability to bring to life any visual design using the latest web technologies.</p>
   
