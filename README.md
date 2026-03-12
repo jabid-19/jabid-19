@@ -14,7 +14,7 @@
 
 <h1 align="left">Hello, this is Jabid Hasan</h1>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=BD7045&width=850&lines=A+front-end+developer+driven+by+creativity+and+a+love+for+UI%2FUX+design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=BD7045&width=850&lines=A+front-end+developer+driven+by+creativity+and+a+love+for+UI%2FUX+design)](https://git.io/typing-svg)
   
   <p>As a Senior Frontend Engineer, I bridge engineering and user experience to build intuitive and scalable web applications. I specialize in React, Next.js, and TypeScript, and actively leverage AI tools and LLM integrations to power intelligent product features.</p>
   
