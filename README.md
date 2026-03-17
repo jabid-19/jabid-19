@@ -149,14 +149,14 @@
         align="center"
         src="https://github.com/jabid-19/jabid-19/blob/main/images/contacts/linkedin.png?raw=true"
         alt="LinkedIn"
-        height="20"
-        width="20"
+        height="24"
+        width="24"
     /></a>
     &nbsp;
-       <a href="https://linkedin.com/in/jabid-hasan" target="blank"
+       <a href="https://medium.com/@jabid19" target="blank"
       ><img
         align="center"
-        src="https://github.com/jabid-19/jabid-19/blob/main/images/contacts/medium?raw=true"
+        src="https://github.com/jabid-19/jabid-19/blob/main/images/contacts/medium.png?raw=true"
         alt="Medium"
         height="20"
         width="20"
