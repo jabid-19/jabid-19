@@ -144,22 +144,31 @@
  
   <h3 align="left">Connect with me:</h3>
   <p align="left">
-    <a href="https://twitter.com/jabid_19" target="blank"
-      ><img
-        align="center"
-        src="https://github.com/jabid-19/jabid-19/blob/main/images/contacts/twitter.png?raw=true"
-        alt="Twitter"
-        height="20"
-        width="20"
-    /></a>
-    &nbsp;
-    <a href="https://linkedin.com/in/jabid-hasan" target="blank"
+       <a href="https://linkedin.com/in/jabid-hasan" target="blank"
       ><img
         align="center"
         src="https://github.com/jabid-19/jabid-19/blob/main/images/contacts/linkedin.png?raw=true"
         alt="LinkedIn"
         height="20"
         width="20"
+    /></a>
+    &nbsp;
+       <a href="https://linkedin.com/in/jabid-hasan" target="blank"
+      ><img
+        align="center"
+        src="https://github.com/jabid-19/jabid-19/blob/main/images/contacts/medium?raw=true"
+        alt="Medium"
+        height="20"
+        width="20"
+    /></a>
+    &nbsp;
+    <a href="https://twitter.com/jabid_19" target="blank"
+      ><img
+        align="center"
+        src="https://github.com/jabid-19/jabid-19/blob/main/images/contacts/twitter.png?raw=true"
+        alt="Twitter"
+        height="18"
+        width="18"
     /></a>
     &nbsp;
     <a href="https://fb.com/jabid19" target="blank"
