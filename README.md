@@ -5,18 +5,18 @@
       src="https://github.com/jabid-19/jabid-19/blob/main/new-banner.png?raw=true"
       alt="jabid-19"
     />
-    <a/>
+    </a>
   </p>
   
  
-  
+   
 <!-- ![](https://komarev.com/ghpvc/?username=jabid-19&color=7b4c30) -->
 
 <h1 align="left">Hello, this is Jabid Hasan</h1>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=BD7045&width=850&lines=A+front-end+engineer+driven+by+creativity+and+a+love+for+UI%2FUX+design)](https://git.io/typing-svg)
   
-  <p>As a Senior Frontend Engineer, I bridge engineering and user experience to build intuitive and scalable web applications. I specialize in React, Next.js, and TypeScript, and actively leverage AI tools and LLM integrations to power intelligent product features.</p>
+  <p>As a Senior Frontend Engineer, I bridge engineering and user experience to build intuitive and scalable web applications. I specialize in React, Next.js, and TypeScript, and actively leverage modern tools to create seamless digital experiences.</p>
   
   
 
@@ -25,16 +25,14 @@
   - How to reach me **jabidhasan19@gmail.com**
   
   
- [![Twitter Follow](https://img.shields.io/twitter/follow/jabid-19?style=for-the-badge&logo=x&logoColor=%23ffffff&color=%23844f30&cacheSeconds=%23844f30
-)](https://twitter.com/jabid_19)
+ [![Twitter Follow](https://img.shields.io/twitter/follow/jabid-19?style=for-the-badge&logo=x&logoColor=%23ffffff&color=%23844f30&cacheSeconds=%23844f30)](https://twitter.com/jabid_19)
  <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/jabid-19?style=for-the-badge&logo=x&logoColor=%23ffffff&color=%23844f30&cacheSeconds=%23844f30
 )](https://twitter.com/jabid_19) -->
 
 
 
 
-
-  
+   
   <h3 align="left">Languages and Tools:</h3>
   
   
