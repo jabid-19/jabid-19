@@ -36,105 +36,29 @@
   <h3 align="left">Languages and Tools:</h3>
   
   
- <p align="left">
-      <img
-        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/js.webp"
-        alt="js"
-        width="25"
-        height="25"
-      />
-    &nbsp;
-     <img
-        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/ts.webp"
-        alt="ts"
-        width="25"
-        height="25"
-      />
-    &nbsp;
-      <img
-        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/react.webp"
-        alt="reactjs"
-        width="25"
-        height="25"
-      />
-    &nbsp;
-      <img
-        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/next-js.webp"
-        alt="nextjs"
-        width="25"
-        height="25"
-      />
-    &nbsp;
-      <img
-        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/node.webp"
-        alt="nodejs"
-        width="25"
-        height="25"
-      />
-    &nbsp;
-      <img
-        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/mongo.webp"
-        alt="mongo"
-        width="25"
-        height="25"
-      />
-    &nbsp; 
-      <img
-        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/mui.webp"
-        alt="mui"
-        width="25"
-        height="25"
-      />
-    &nbsp;
-      <img
-        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/bootstrap.webp"
-        alt="bootstrap"
-        width="25"
-        height="25"
-      />
-    &nbsp;
-          <img
-        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/tailwind.webp"
-        alt="tailwind"
-        width="25"
-        height="25"
-      />
-    &nbsp;
-      <img
-        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/sass.png"
-        alt="sass"
-        width="25"
-        height="25"
-      />
-    &nbsp;
-      <img
-        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/figma.webp"
-        alt="figma"
-        width="25"
-        height="25"
-      />
-    &nbsp;
-      <img
-        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/xd.webp"
-        alt="xd"
-        width="25"
-        height="25"
-      />    
-    &nbsp;
-      <img
-        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/rive.png"
-        alt="rive"
-        width="25"
-        height="25"
-      />
-    &nbsp;
-      <img
-        src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/cypress.webp"
-        alt="cypress"
-        width="25"
-        height="25"
-      />
-  </p>
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/js.webp" width="30"/><br/>JS</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/ts.webp" width="30"/><br/>TS</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/react.webp" width="30"/><br/>React</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/next-js.webp" width="30"/><br/>Next</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/node.webp" width="30"/><br/>Node</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/mongo.webp" width="30"/><br/>Mongo</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/mui.webp" width="30"/><br/>MUI</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/bootstrap.webp" width="30"/><br/>Bootstrap</td>
+       <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/tailwind.webp" width="30"/><br/>Tailwind</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/sass.png" width="30"/><br/>Sass</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/figma.webp" width="30"/><br/>Figma</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/xd.webp" width="30"/><br/>XD</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/rive.png" width="30"/><br/>Rive</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/cypress.webp" width="30"/><br/>Cypress</td>
+  </tr>
+
+</table>
   
   <br/>
 
