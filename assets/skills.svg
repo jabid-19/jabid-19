@@ -1,0 +1,50 @@
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
+  <style>
+    .pill {
+      opacity: 0;
+      transform: translateY(8px);
+      animation: pop 0.5s ease-out forwards;
+    }
+    .label {
+      font-size: 13px;
+      fill: #1a1a1a;
+    }
+    @keyframes pop {
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .p0  { animation-delay: 0.0s; }
+    .p1  { animation-delay: 0.08s; }
+    .p2  { animation-delay: 0.16s; }
+    .p3  { animation-delay: 0.24s; }
+    .p4  { animation-delay: 0.32s; }
+    .p5  { animation-delay: 0.40s; }
+    .p6  { animation-delay: 0.48s; }
+    .p7  { animation-delay: 0.56s; }
+    .p8  { animation-delay: 0.64s; }
+    .p9  { animation-delay: 0.72s; }
+    .p10 { animation-delay: 0.80s; }
+    .p11 { animation-delay: 0.88s; }
+    .p12 { animation-delay: 0.96s; }
+    .p13 { animation-delay: 1.04s; }
+  </style>
+
+  <rect x="0" y="0" width="900" height="180" rx="12" fill="#fafafa"/>
+
+  <!-- row 1 -->
+  <g class="pill p0"><rect x="10"  y="10" width="90"  height="34" rx="17" fill="none" stroke="#1a1a1a"/><text x="55"  y="32" text-anchor="middle" class="label">JS</text></g>
+  <g class="pill p1"><rect x="110" y="10" width="90"  height="34" rx="17" fill="none" stroke="#1a1a1a"/><text x="155" y="32" text-anchor="middle" class="label">TS</text></g>
+  <g class="pill p2"><rect x="210" y="10" width="100" height="34" rx="17" fill="none" stroke="#1a1a1a"/><text x="260" y="32" text-anchor="middle" class="label">React</text></g>
+  <g class="pill p3"><rect x="320" y="10" width="100" height="34" rx="17" fill="none" stroke="#1a1a1a"/><text x="370" y="32" text-anchor="middle" class="label">Next.js</text></g>
+  <g class="pill p4"><rect x="430" y="10" width="100" height="34" rx="17" fill="none" stroke="#1a1a1a"/><text x="480" y="32" text-anchor="middle" class="label">Node</text></g>
+  <g class="pill p5"><rect x="540" y="10" width="110" height="34" rx="17" fill="none" stroke="#1a1a1a"/><text x="595" y="32" text-anchor="middle" class="label">MongoDB</text></g>
+  <g class="pill p6"><rect x="660" y="10" width="110" height="34" rx="17" fill="none" stroke="#1a1a1a"/><text x="715" y="32" text-anchor="middle" class="label">Tailwind</text></g>
+
+  <!-- row 2 -->
+  <g class="pill p7"><rect x="10"  y="60" width="100" height="34" rx="17" fill="none" stroke="#1a1a1a"/><text x="60"  y="82" text-anchor="middle" class="label">MUI</text></g>
+  <g class="pill p8"><rect x="120" y="60" width="120" height="34" rx="17" fill="none" stroke="#1a1a1a"/><text x="180" y="82" text-anchor="middle" class="label">Bootstrap</text></g>
+  <g class="pill p9"><rect x="250" y="60" width="90"  height="34" rx="17" fill="none" stroke="#1a1a1a"/><text x="295" y="82" text-anchor="middle" class="label">Sass</text></g>
+  <g class="pill p10"><rect x="350" y="60" width="100" height="34" rx="17" fill="none" stroke="#1a1a1a"/><text x="400" y="82" text-anchor="middle" class="label">Figma</text></g>
+  <g class="pill p11"><rect x="460" y="60" width="90"  height="34" rx="17" fill="none" stroke="#1a1a1a"/><text x="505" y="82" text-anchor="middle" class="label">XD</text></g>
+  <g class="pill p12"><rect x="560" y="60" width="90"  height="34" rx="17" fill="none" stroke="#1a1a1a"/><text x="605" y="82" text-anchor="middle" class="label">Rive</text></g>
+  <g class="pill p13"><rect x="660" y="60" width="110" height="34" rx="17" fill="none" stroke="#1a1a1a"/><text x="715" y="82" text-anchor="middle" class="label">Cypress</text></g>
+</svg>
