@@ -1,0 +1,71 @@
+<svg width="900" height="240" viewBox="0 0 900 240" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .name {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 64px;
+      fill: #1a1a1a;
+      opacity: 0;
+      animation: rise 0.8s ease-out 0.1s forwards;
+    }
+    .role {
+      font-family: 'Courier New', monospace;
+      font-size: 18px;
+      letter-spacing: 4px;
+      fill: #8a8a8a;
+      opacity: 0;
+      animation: fadeIn 0.6s ease-out 1s forwards;
+    }
+    .underline {
+      transform-origin: left;
+      transform: scaleX(0);
+      animation: grow 0.9s ease-out 0.7s forwards;
+    }
+    .tagline {
+      font-family: 'Courier New', monospace;
+      font-size: 16px;
+      fill: #4a4a4a;
+    }
+    .cursor {
+      animation: blink 1s steps(1) infinite;
+    }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(16px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    @keyframes grow {
+      to { transform: scaleX(1); }
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    .type-text {
+      opacity: 0;
+      animation: cycle 6s ease-in-out infinite;
+    }
+    .t1 { animation-delay: 1.6s; }
+    .t2 { animation-delay: 3.6s; }
+    .t3 { animation-delay: 5.6s; }
+    @keyframes cycle {
+      0%, 3% { opacity: 0; }
+      6%, 28% { opacity: 1; }
+      31%, 100% { opacity: 0; }
+    }
+  </style>
+
+  <rect x="0" y="0" width="900" height="240" rx="12" fill="#fafafa"/>
+  <text x="10" y="90" class="name">Jabid Hasan</text>
+  <rect x="10" y="112" width="230" height="3" fill="#1a1a1a" class="underline" />
+  <text x="10" y="150" class="role">SENIOR&#160;FRONTEND&#160;ENGINEER</text>
+
+  <g class="tagline">
+    <text x="10" y="195" class="type-text t1">Bridging engineering and user experience</text>
+    <text x="10" y="195" class="type-text t2">Building with React, Next.js &amp; TypeScript</text>
+    <text x="10" y="195" class="type-text t3">Crafting seamless digital experiences</text>
+  </g>
+  <rect x="0" y="182" width="9" height="16" fill="#4a4a4a" class="cursor" />
+</svg>
