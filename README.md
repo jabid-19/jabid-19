@@ -22,7 +22,7 @@
 
   - All of my projects are available at [jabidhasan.com](https://www.jabidhasan.com/) 
   
-  - How to reach me **jabidhasan19@gmail.com**
+  - How to reach me **contact@jabidhasan.com**
   
   
  [![Twitter Follow](https://img.shields.io/twitter/follow/jabid-19?style=for-the-badge&logo=x&logoColor=%23ffffff&color=%23844f30&cacheSeconds=%23844f30)](https://twitter.com/jabid_19)
