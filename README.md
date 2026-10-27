@@ -70,8 +70,6 @@
 
 <br/>
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jabid-19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/jabid-hasan" target="_blank"><img align="center" src="https://github.com/jabid-19/jabid-19/blob/main/images/contacts/linkedin.png?raw=true" alt="LinkedIn" height="24" width="24" /></a>
