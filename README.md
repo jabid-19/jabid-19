@@ -19,53 +19,25 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark&perline=8" />
-        <img height="40" alt="js, ts, html, css" src="https://skillicons.dev/icons?i=js,ts,html,css&theme=light&perline=8" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,mui,bootstrap&theme=dark&perline=8" />
-        <img height="40" alt="react, nextjs, tailwind, sass, mui, bootstrap" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,mui,bootstrap&theme=light&perline=8" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend &amp; Data</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,mongodb,supabase&theme=dark&perline=8" />
-        <img height="40" alt="nodejs, mongodb, supabase" src="https://skillicons.dev/icons?i=nodejs,mongodb,supabase&theme=light&perline=8" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Design</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma,xd&theme=dark&perline=8" />
-        <img height="40" alt="figma, xd" src="https://skillicons.dev/icons?i=figma,xd&theme=light&perline=8" />
-      </picture> <sub>+ Rive</sub>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Testing &amp; Tooling</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cypress,git,github,vscode,vercel&theme=dark&perline=8" />
-        <img height="40" alt="cypress, git, github, vscode, vercel" src="https://skillicons.dev/icons?i=cypress,git,github,vscode,vercel&theme=light&perline=8" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<p><b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="js, ts, html, css" />
+</p>
+
+<p><b>Frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,mui,bootstrap" alt="react, nextjs, tailwind, sass, mui, bootstrap" />
+</p>
+
+<p><b>Backend &amp; Data</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,supabase" alt="nodejs, mongodb, supabase" />
+</p>
+
+<p><b>Design</b><br/>
+  <img src="https://skillicons.dev/icons?i=figma,xd" alt="figma, xd" /> <sub>+ Rive</sub>
+</p>
+
+<p><b>Testing &amp; Tooling</b><br/>
+  <img src="https://skillicons.dev/icons?i=cypress,git,github,vscode,vercel" alt="cypress, git, github, vscode, vercel" />
+</p>
 
 <br/>
 
