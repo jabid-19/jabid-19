@@ -70,6 +70,12 @@
 
 <br/>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jabid-19/jabid-19/output/profile-3d-contrib.svg" alt="3D contribution graph" width="100%" />
+</p>
+
+<br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/jabid-hasan" target="_blank"><img align="center" src="https://github.com/jabid-19/jabid-19/blob/main/images/contacts/linkedin.png?raw=true" alt="LinkedIn" height="24" width="24" /></a>
@@ -86,7 +92,3 @@
 </p>
 
 <br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jabid-19/jabid-19/output/profile-3d-contrib.svg" alt="3D contribution graph" width="100%" />
-</p>
