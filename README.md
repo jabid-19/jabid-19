@@ -21,24 +21,49 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/js.webp" width="30"/><br/>JS</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/ts.webp" width="30"/><br/>TS</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/react.webp" width="30"/><br/>React</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/next-js.webp" width="30"/><br/>Next</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/node.webp" width="30"/><br/>Node</td>
+    <td><b>Languages</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark&perline=8" />
+        <img height="40" alt="js, ts, html, css" src="https://skillicons.dev/icons?i=js,ts,html,css&theme=light&perline=8" />
+      </picture>
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/mongo.webp" width="30"/><br/>Mongo</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/mui.webp" width="30"/><br/>MUI</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/bootstrap.webp" width="30"/><br/>Bootstrap</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/tailwind.webp" width="30"/><br/>Tailwind</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/sass.png" width="30"/><br/>Sass</td>
+    <td><b>Frontend</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,mui,bootstrap&theme=dark&perline=8" />
+        <img height="40" alt="react, nextjs, tailwind, sass, mui, bootstrap" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,mui,bootstrap&theme=light&perline=8" />
+      </picture>
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/figma.webp" width="30"/><br/>Figma</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/xd.webp" width="30"/><br/>XD</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/rive.png" width="30"/><br/>Rive</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/images/cypress.webp" width="30"/><br/>Cypress</td>
+    <td><b>Backend &amp; Data</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,mongodb,supabase&theme=dark&perline=8" />
+        <img height="40" alt="nodejs, mongodb, supabase" src="https://skillicons.dev/icons?i=nodejs,mongodb,supabase&theme=light&perline=8" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Design</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma,xd&theme=dark&perline=8" />
+        <img height="40" alt="figma, xd" src="https://skillicons.dev/icons?i=figma,xd&theme=light&perline=8" />
+      </picture> <sub>+ Rive</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Testing &amp; Tooling</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cypress,git,github,vscode,vercel&theme=dark&perline=8" />
+        <img height="40" alt="cypress, git, github, vscode, vercel" src="https://skillicons.dev/icons?i=cypress,git,github,vscode,vercel&theme=light&perline=8" />
+      </picture>
+    </td>
   </tr>
 </table>
 
