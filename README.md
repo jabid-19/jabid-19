@@ -19,23 +19,64 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p><b>Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="js, ts, html, css" />
+<p><b>Languages</b></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=js" height="36" alt="JavaScript" title="JavaScript" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="36" alt="TypeScript" title="TypeScript" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="36" alt="HTML" title="HTML" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="36" alt="CSS" title="CSS" />
 </p>
 
-<p><b>Frontend</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,mui,bootstrap" alt="react, nextjs, tailwind, sass, mui, bootstrap" />
+<p><b>Frontend</b></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="36" alt="React" title="React" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" height="36" alt="Next.js" title="Next.js" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="Tailwind CSS" title="Tailwind CSS" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=sass" height="36" alt="Sass" title="Sass" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=mui" height="36" alt="Material UI" title="Material UI" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="Bootstrap" title="Bootstrap" />
 </p>
 
-<p><b>Backend &amp; Data</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,supabase" alt="nodejs, mongodb, supabase" />
+<p><b>Backend &amp; Data</b></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="Node.js" title="Node.js" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="MongoDB" title="MongoDB" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase" height="36" alt="Supabase" title="Supabase" />
 </p>
 
-<p><b>Design</b><br/>
-  <img src="https://skillicons.dev/icons?i=figma,xd" alt="figma, xd" /> <sub>+ Rive</sub>
+<p><b>Design</b></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" height="36" alt="Figma" title="Figma" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=xd" height="36" alt="Adobe XD" title="Adobe XD" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/assets/rive.svg" height="36" alt="Rive" title="Rive" />
 </p>
 
-<p><b>Testing &amp; Tooling</b><br/>
+<p><b>Testing &amp; Tooling</b></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=cypress" height="36" alt="Cypress" title="Cypress" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="36" alt="Git" title="Git" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="36" alt="GitHub" title="GitHub" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="VS Code" title="VS Code" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" height="36" alt="Vercel" title="Vercel" />
+</p>
+
+<br/>
   <img src="https://skillicons.dev/icons?i=cypress,git,github,vscode,vercel" alt="cypress, git, github, vscode, vercel" />
 </p>
 
