@@ -11,6 +11,7 @@ on:
     branches: [main]
     paths:
       - profile-3d-settings.json
+      - scripts/trim-3d.py
       - .github/workflows/profile-3d.yml
 
 permissions:
@@ -29,6 +30,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: profile-3d-settings.json
+
+      - name: Keep only the 3D buildings
+        run: python3 scripts/trim-3d.py profile-3d-contrib/profile-3d-contrib.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
