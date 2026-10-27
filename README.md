@@ -45,7 +45,9 @@
 
 <p><b>Mobile</b></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=react" height="28" alt="React Native" title="React Native" />
+  <img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/assets/react-native.svg" height="28" alt="React Native" title="React Native" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/assets/expo.svg" height="28" alt="Expo" title="Expo" />
 </p>
 
 <p><b>Backend &amp; Data</b></p>
@@ -64,19 +66,6 @@
   <img src="https://skillicons.dev/icons?i=xd" height="28" alt="Adobe XD" title="Adobe XD" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/assets/rive.svg" height="28" alt="Rive" title="Rive" />
-</p>
-
-<p><b>Testing &amp; Tooling</b></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=cypress" height="28" alt="Cypress" title="Cypress" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="28" alt="Git" title="Git" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="28" alt="GitHub" title="GitHub" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="28" alt="VS Code" title="VS Code" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel" height="28" alt="Vercel" title="Vercel" />
 </p>
 
 <br/>
