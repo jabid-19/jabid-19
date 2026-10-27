@@ -87,7 +87,6 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jabid-19/jabid-19/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/jabid-19/jabid-19/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jabid-19/jabid-19/output/profile-3d-contrib.svg" alt="3D contribution graph" width="100%" />
+</p>

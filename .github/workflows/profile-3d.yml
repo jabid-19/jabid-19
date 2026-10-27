@@ -1,0 +1,39 @@
+# Builds the 3D contribution graph and publishes it to the "output" branch,
+# where the profile README picks it up. Colors live in profile-3d-settings.json.
+
+name: Profile 3D Contributions
+
+on:
+  schedule:
+    - cron: "0 21 * * *" # 03:00 in Dhaka
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - profile-3d-settings.json
+      - .github/workflows/profile-3d.yml
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: profile-3d-settings.json
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: profile-3d-contrib
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
