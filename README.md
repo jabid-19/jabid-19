@@ -21,63 +21,62 @@
 
 <p><b>Languages</b></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=js" height="36" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=js" height="28" alt="JavaScript" title="JavaScript" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" height="36" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="28" alt="TypeScript" title="TypeScript" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=html" height="36" alt="HTML" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=html" height="28" alt="HTML" title="HTML" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="36" alt="CSS" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=css" height="28" alt="CSS" title="CSS" />
 </p>
 
 <p><b>Frontend</b></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=react" height="36" alt="React" title="React" />
+  <img src="https://skillicons.dev/icons?i=react" height="28" alt="React" title="React" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" height="36" alt="Next.js" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="28" alt="Next.js" title="Next.js" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="28" alt="Tailwind CSS" title="Tailwind CSS" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=sass" height="36" alt="Sass" title="Sass" />
+  <img src="https://skillicons.dev/icons?i=sass" height="28" alt="Sass" title="Sass" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=mui" height="36" alt="Material UI" title="Material UI" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=mui" height="28" alt="Material UI" title="Material UI" />
+</p>
+
+<p><b>Mobile</b></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="28" alt="React Native" title="React Native" />
 </p>
 
 <p><b>Backend &amp; Data</b></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="Node.js" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="28" alt="Node.js" title="Node.js" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="MongoDB" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="28" alt="MongoDB" title="MongoDB" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=supabase" height="36" alt="Supabase" title="Supabase" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="28" alt="Supabase" title="Supabase" />
 </p>
 
 <p><b>Design</b></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=figma" height="36" alt="Figma" title="Figma" />
+  <img src="https://skillicons.dev/icons?i=figma" height="28" alt="Figma" title="Figma" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=xd" height="36" alt="Adobe XD" title="Adobe XD" />
+  <img src="https://skillicons.dev/icons?i=xd" height="28" alt="Adobe XD" title="Adobe XD" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/assets/rive.svg" height="36" alt="Rive" title="Rive" />
+  <img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/assets/rive.svg" height="28" alt="Rive" title="Rive" />
 </p>
 
 <p><b>Testing &amp; Tooling</b></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=cypress" height="36" alt="Cypress" title="Cypress" />
+  <img src="https://skillicons.dev/icons?i=cypress" height="28" alt="Cypress" title="Cypress" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="36" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=git" height="28" alt="Git" title="Git" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="36" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=github" height="28" alt="GitHub" title="GitHub" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="VS Code" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="28" alt="VS Code" title="VS Code" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel" height="36" alt="Vercel" title="Vercel" />
-</p>
-
-<br/>
-  <img src="https://skillicons.dev/icons?i=cypress,git,github,vscode,vercel" alt="cypress, git, github, vscode, vercel" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="28" alt="Vercel" title="Vercel" />
 </p>
 
 <br/>
