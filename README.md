@@ -8,22 +8,33 @@
 
 <h1 align="left">Hello, this is Jabid Hasan</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=BD7045&width=850&lines=A+senior+software+engineer+who+loves+building+clean%2C+intuitive+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2500&color=BD7045&width=850&lines=Senior+Software+Engineer;Full-stack+products+with+a+designer's+eye;Building+AI+tools%3A+Vibe5+and+Tintoro)](https://www.jabidhasan.com/)
 
-<p>I'm a Senior Software Engineer who builds scalable, user-focused web applications, with deep experience on the frontend. I work mostly with React, Next.js, TypeScript and Node.js, and I enjoy owning products end to end, from data models and APIs to the last pixel of the UI.</p>
+<p>I'm a Senior Software Engineer who builds products end to end, from data models and APIs to the last pixel of the UI. I work mostly with <b>Next.js, React, TypeScript and Node.js</b>, with Supabase and MongoDB on the backend, and I've spent 5+ years shipping web and mobile products for Swedish and international startups.</p>
 
-- All of my projects are available at [jabidhasan.com](https://www.jabidhasan.com/)
-- How to reach me: **contact@jabidhasan.com**
+<p>Lately I've been building AI products of my own. I care about the parts AI tools usually skip: security, performance, edge cases, and interfaces that feel crafted instead of generated.</p>
+
+- 🗂️ All of my projects are at [jabidhasan.com](https://www.jabidhasan.com/)
+- 📫 Reach me at **contact@jabidhasan.com**
 
 [![Follow on X](https://img.shields.io/badge/Follow-@jabid__19-844f30?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jabid_19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jabid_Hasan-844f30?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jabid-hasan)
+
+<h3 align="left">What I'm building:</h3>
+
+| Project | What it is | Built with |
+|---|---|---|
+| [**Vibe5**](https://vibe5.app) | A platform where AI creators share full workflow case studies: every prompt, tool and iteration. Launched on Product Hunt. | Next.js, Supabase (RLS), Upstash, Cloudflare R2 |
+| [**Tintoro**](https://tintoro.vercel.app) | Mix 60+ visual styles live in the browser, then copy the result as AI prompts, CSS tokens, or Tailwind and shadcn themes. | Next.js, WebGL shaders, OKLab color mixing |
+| [**own-the-canvas**](https://github.com/jabid-19/own-the-canvas) | Open-source library of customizable canvas effect components for React. | React, TypeScript, Canvas API |
 
 <h3 align="left">Languages and Tools:</h3>
 
 <p><b>Languages</b></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=js" height="28" alt="JavaScript" title="JavaScript" />
-  &nbsp;
   <img src="https://skillicons.dev/icons?i=ts" height="28" alt="TypeScript" title="TypeScript" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="28" alt="JavaScript" title="JavaScript" />
   &nbsp;
   <img src="https://skillicons.dev/icons?i=html" height="28" alt="HTML" title="HTML" />
   &nbsp;
@@ -38,9 +49,24 @@
   &nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" height="28" alt="Tailwind CSS" title="Tailwind CSS" />
   &nbsp;
+  <img src="https://skillicons.dev/icons?i=threejs" height="28" alt="Three.js" title="Three.js" />
+  &nbsp;
   <img src="https://skillicons.dev/icons?i=sass" height="28" alt="Sass" title="Sass" />
   &nbsp;
   <img src="https://skillicons.dev/icons?i=mui" height="28" alt="Material UI" title="Material UI" />
+</p>
+
+<p><b>Backend &amp; Data</b></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="28" alt="Node.js" title="Node.js" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase" height="28" alt="Supabase" title="Supabase" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" height="28" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="28" alt="MongoDB" title="MongoDB" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" height="28" alt="Vercel" title="Vercel" />
 </p>
 
 <p><b>Mobile</b></p>
@@ -50,22 +76,13 @@
   <img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/assets/expo.svg" height="28" alt="Expo" title="Expo" />
 </p>
 
-<p><b>Backend &amp; Data</b></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="28" alt="Node.js" title="Node.js" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" height="28" alt="MongoDB" title="MongoDB" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=supabase" height="28" alt="Supabase" title="Supabase" />
-</p>
-
 <p><b>Design</b></p>
 <p>
   <img src="https://skillicons.dev/icons?i=figma" height="28" alt="Figma" title="Figma" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=xd" height="28" alt="Adobe XD" title="Adobe XD" />
-  &nbsp;
   <img src="https://raw.githubusercontent.com/jabid-19/jabid-19/main/assets/rive.svg" height="28" alt="Rive" title="Rive" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=xd" height="28" alt="Adobe XD" title="Adobe XD" />
 </p>
 
 <br/>
