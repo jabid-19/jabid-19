@@ -26,7 +26,7 @@
 |---|---|---|
 | [**Vibe5**](https://vibe5.app) | A platform where AI creators share full workflow case studies: every prompt, tool and iteration. Launched on Product Hunt. | Next.js, Supabase (RLS), Upstash, Cloudflare R2 |
 | [**Tintoro**](https://tintoro.vercel.app) | Mix 60+ visual styles live in the browser, then copy the result as AI prompts, CSS tokens, or Tailwind and shadcn themes. | Next.js, WebGL shaders, OKLab color mixing |
-| [**own-the-canvas**](https://github.com/jabid-19/own-the-canvas) | Open-source library of customizable canvas effect components for React. | React, TypeScript, Canvas API |
+| [**own-the-canvas**](https://own-the-canvas.vercel.app/) | Open-source library of customizable canvas effect components for React. | React, TypeScript, Canvas API |
 
 <h3 align="left">Languages and Tools:</h3>
 
