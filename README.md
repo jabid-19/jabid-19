@@ -8,7 +8,7 @@
 
 <h1 align="left">Hello, this is Jabid Hasan</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=BD7045&width=850&lines=A+software+engineer+who+loves+building+clean%2C+intuitive+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=BD7045&width=850&lines=A+senior+software+engineer+who+loves+building+clean%2C+intuitive+products)](https://git.io/typing-svg)
 
 <p>I'm a Senior Software Engineer who builds scalable, user-focused web applications, with deep experience on the frontend. I work mostly with React, Next.js, TypeScript and Node.js, and I enjoy owning products end to end, from data models and APIs to the last pixel of the UI.</p>
 
